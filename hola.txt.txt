@@ -1,2 +1,2 @@
-Hola, món
+Hola des de la branca A
 Editat desde GitHub
