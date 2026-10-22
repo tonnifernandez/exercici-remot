@@ -1,2 +1,2 @@
-Hola des de la branca A
+Hola des de la branca B
 Editat desde GitHub
